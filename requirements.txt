@@ -1,0 +1,7 @@
+python >= 3.9
+numpy >= 1.23
+pandas >= 2
+matplotlib >= 3.7
+opencv-python >= 4.7
+tqdm >= 4.65
+tensorflow == 2.12
